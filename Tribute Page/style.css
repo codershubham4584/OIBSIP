@@ -1,0 +1,73 @@
+body{
+    /* background-color: rgba(63, 174, 218, 0.2); */
+    margin:0 20%;
+    font-family: monospace;
+    background: linear-gradient(45deg, #9796f0, #fbc7d4);
+}
+
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+    font-size:3em;
+}
+
+img{
+    display: block;
+    width: 80%;
+    margin: 0 10%;
+}
+
+div#tribute-info{
+    background-color:rgba(0,0,0,0.2);
+    box-shadow: 20px 20px 15px grey;
+    padding:5px 10px;
+    margin-top:80px;
+}
+h1.title{
+    color:white;
+    text-align:center;
+    text-shadow: 5px 5px 10px black;
+}
+#early-life{
+    color : blue;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#early-career{
+    color: darkgreen;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#personal-life{
+    color: blueviolet;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#death{
+    color: indigo;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+    
+}
+#born{
+    color: springgreen;
+    font-weight: bolder;
+    font-size: 1.5em;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+    text-decoration: underline;
+    
+}
+
+#footer{
+    color: black;
+    font-weight: bolder;
+    font-size: 2em;
+}
+#para{
+    text-align: justify;
+}
